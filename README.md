@@ -10,6 +10,6 @@
   
 [Bootswatch](https://gist.github.com/katp00p/76bc84d0fa27afa28ab4b421448234fd) -  How to add Bootswatch to a project.  
 [Font Awesome](https://gist.github.com/katp00p/c3c5a8b818315c7d798b384b0d09c5c1) - How to add Font Awesome to a project.  
-[Guzzle](https://gist.github.com/katp00p/aaba19abe0de29922e8e4315d7c5374d) - install and use Guzzle HTTP Client.
+[Guzzle](https://gist.github.com/katp00p/aaba19abe0de29922e8e4315d7c5374d) - install and use Guzzle HTTP Client.  
 [Pass Errors to Front End](https://gist.github.com/katp00p/1b87ed1d5841299b0f25119f6df0a765) - Pass form validation errors from laravel backend to vue frontend.  
 
