@@ -6,5 +6,5 @@
 [Template]() - An empty template for creating a new component.  
 
 # Laravel
-[Bootswatch]() -  How to add Bootswatch to a project.  
+[Bootswatch](https://gist.github.com/katp00p/76bc84d0fa27afa28ab4b421448234fd) -  How to add Bootswatch to a project.  
 [Font Awesome]() - How to add Font Awesome to a project.  
