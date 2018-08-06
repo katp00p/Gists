@@ -8,6 +8,9 @@
 [Font Awesome](https://gist.github.com/katp00p/c3c5a8b818315c7d798b384b0d09c5c1) - How to add Font Awesome to a project.  
 [Guzzle](https://gist.github.com/katp00p/aaba19abe0de29922e8e4315d7c5374d) - install and use Guzzle HTTP Client.  
 
+# Vue  
+[Noty Mixin](https://gist.github.com/katp00p/e082522b09eaf93df6dfefcebc541f14) - Mixin for formatting noty notifications.
+  
 # Vue-Laravel
 [Laravel Router Catch All](https://gist.github.com/katp00p/84af2211d5f2fdabb91f3e32f4399eef) - Laravel Router that catches all requests and forwards to Vue Router, for History Mode.  
 [Pass Errors to Front End](https://gist.github.com/katp00p/1b87ed1d5841299b0f25119f6df0a765) - Pass form validation errors from laravel backend to vue frontend.  
