@@ -11,3 +11,6 @@
 # Vue-Laravel
 [Laravel Router Catch All](https://gist.github.com/katp00p/84af2211d5f2fdabb91f3e32f4399eef) - Laravel Router that catches all requests and forwards to Vue Router, for History Mode.  
 [Pass Errors to Front End](https://gist.github.com/katp00p/1b87ed1d5841299b0f25119f6df0a765) - Pass form validation errors from laravel backend to vue frontend.  
+
+# Libraries  
+[Animate.css](https://gist.github.com/katp00p/b01bf1a365fba179c3f4047aa70c41c0) Prebuilt animations.  
