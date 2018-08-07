@@ -13,7 +13,7 @@
   
 # Vue-Laravel
 [Laravel Router Catch All](https://gist.github.com/katp00p/84af2211d5f2fdabb91f3e32f4399eef) - Laravel Router that catches all requests and forwards to Vue Router, for History Mode.  
-[Navbar Template](https://gist.github.com/katp00p/d204aafbb29370281821bcfe7299462f) - Navbar that uses Laravel's auth.
+[Navbar Template](https://gist.github.com/katp00p/d204aafbb29370281821bcfe7299462f) - Navbar that uses Laravel's auth.  
 [Pass Errors to Front End](https://gist.github.com/katp00p/1b87ed1d5841299b0f25119f6df0a765) - Pass form validation errors from laravel backend to vue frontend.  
 
 # Packages  
