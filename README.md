@@ -9,7 +9,7 @@
 [Guzzle](https://gist.github.com/katp00p/aaba19abe0de29922e8e4315d7c5374d) - install and use Guzzle HTTP Client.  
 
 # Vue  
-[Noty Mixin](https://gist.github.com/katp00p/e082522b09eaf93df6dfefcebc541f14) - Mixin for formatting noty notifications.
+[Noty Mixin](https://gist.github.com/katp00p/e082522b09eaf93df6dfefcebc541f14) - Mixin for formatting noty notifications.  
 [Vue Router](https://gist.github.com/katp00p/3de25719ab1b431789065f57e8beefd1) - Everything needed to use vue-router.  
   
 # Vue-Laravel
