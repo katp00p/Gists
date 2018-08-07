@@ -10,6 +10,7 @@
 
 # Vue  
 [Noty Mixin](https://gist.github.com/katp00p/e082522b09eaf93df6dfefcebc541f14) - Mixin for formatting noty notifications.
+[Vue Router](https://gist.github.com/katp00p/3de25719ab1b431789065f57e8beefd1) - Everything needed to use vue-router.  
   
 # Vue-Laravel
 [Laravel Router Catch All](https://gist.github.com/katp00p/84af2211d5f2fdabb91f3e32f4399eef) - Laravel Router that catches all requests and forwards to Vue Router, for History Mode.  
