@@ -5,7 +5,7 @@
 # Laravel
 [Project Starter](https://gist.github.com/katp00p/41a7705771dce72e9e6bbdd6b9b33535) -  Most common packages.  
 [Bootswatch](https://gist.github.com/katp00p/76bc84d0fa27afa28ab4b421448234fd) -  How to add Bootswatch to a project.  
-[Font Awesome](https://gist.github.com/katp00p/c3c5a8b818315c7d798b384b0d09c5c1) - How to add Font Awesome to a project.  
+[Font Awesome 5](https://gist.github.com/katp00p/c3c5a8b818315c7d798b384b0d09c5c1) - How to add Font Awesome to a project.  
 [Guzzle](https://gist.github.com/katp00p/aaba19abe0de29922e8e4315d7c5374d) - install and use Guzzle HTTP Client.  
 
 # Vue  
