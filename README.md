@@ -20,3 +20,4 @@
 
 # Packages  
 [Animate.css](https://gist.github.com/katp00p/b01bf1a365fba179c3f4047aa70c41c0) - Prebuilt animations.  
+[Bootstrap-Vue](https://gist.github.com/katp00p/2a05b2a89bc05276a77019bd74acb16b) - Bootstrap components for Vue.  
